@@ -1,1 +1,2 @@
+#!/bin/bash
 git log --graph --pretty=format:'%Cred%h  %Cblue %aN %Creset %s %cD'
